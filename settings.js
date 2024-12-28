@@ -13,8 +13,8 @@ global.ig = '@jr_danzz'
 global.yt = 'Danz Nano'
 global.ttowner = '@danznano'
 global.ownername = '🐺 DanzXnano 🐺'
-global.owner = ['6285147107037'] // SETTING JUGA DI FOLDER DATABASE 
-global.ownernomer = '6285147107037'
+global.owner = ['94710646007'] // SETTING JUGA DI FOLDER DATABASE 
+global.ownernomer = '94710646007'
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
@@ -27,10 +27,10 @@ global.angopay = 'AHMAD RAMA DANI' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = 'gtw' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
 global.botname = "NanoBotz ID"
-global.ownernumber = '6285147107037'
-global.botnumber = '6283113267224'
+global.ownernumber = '94710646007'
+global.botnumber = '94710646007'
 global.ownername = 'DanzXnano'
-global.ownerNumber = ["6285147107037@s.whatsapp.net"]
+global.ownerNumber = ["94710646007@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.wagc = "https://chat.whatsapp.com/DdO8j3quJyl2a1xdyGt8OX"
